@@ -63,6 +63,7 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
 
 ### 🔙 Backend & Linguagens
 
+
 <div align="left">
   <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" title="Node.js">
   &nbsp;
@@ -74,7 +75,8 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
   &nbsp;
   <img alt="ExpressJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" title="Express.js">
   &nbsp;
-  <img alt="NestJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS">
+  
+ <img height="50" width="50"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" title="Nest.js"/>
 </div>
 
 **Especialidades:** APIs REST, Microsserviços, Clean Architecture, Design Patterns, SOLID Principles
@@ -88,7 +90,13 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
   &nbsp;
   <img alt="Service Now" height="50" width="50" src="https://logosmarcas.net/wp-content/uploads/2022/02/ServiceNow-Logo.png" title="ServiceNow">
   &nbsp;
-  <img alt="SOAP/REST APIs" height="50" width="50" src="https://img.shields.io/badge/API%20REST-SOAP-blue?style=for-the-badge" title="APIs REST e SOAP">
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" alt="gRPC" title="gRPC"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/>
+		
 </div>
 
 **Experiência:** 25+ integrações com ERPs, CRMs, sistemas satélites e plataformas de automação ITSM
@@ -123,8 +131,6 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
   <img alt="MongoDB" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg" title="MongoDB">
   &nbsp;
   <img alt="Knex.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" title="Knex.js">
-  &nbsp;
-  <img alt="TypeORM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeorm/typeorm-original.svg" title="TypeORM">
 </div>
 
 **Experiência:** Query optimization, transaction management, database design patterns
@@ -160,7 +166,8 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
   &nbsp;
   <img alt="Git" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" title="Git">
   &nbsp;
-  <img alt="CI/CD" height="50" width="50" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=for-the-badge" title="CI/CD Pipelines">
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
+
 </div>
 
 **Competências:** Container orchestration, Infrastructure as Code, Automated deployments, Infrastructure monitoring
