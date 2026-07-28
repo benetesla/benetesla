@@ -124,7 +124,7 @@ Tenho uma paixão por **construir sistemas confiáveis** — aqueles que não ap
 ### 💾 Bancos de Dados & ORMs
 
 <div align="left">
-  <img alt="PostgreSQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" title="PostgreSQL">
+ <img alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/PostgreSQL.svg">
   &nbsp;
   <img alt="Oracle" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Oracle.svg" title="Oracle">
   &nbsp;
